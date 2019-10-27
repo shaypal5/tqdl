@@ -1,7 +1,7 @@
 tqdl ⋙
 ######
 
-|PyPI-Status| |Downloads| |PyPI-Versions| |Build-Status| |Codecov| |Codefactor| |LICENCE|
+|PyPI-Status| |PyPI-Versions| |Build-Status| |Codecov| |LICENCE|
 
 ``requests``-based file downloads with ``tqdm`` progress bars.   
 
