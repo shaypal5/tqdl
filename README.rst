@@ -9,6 +9,7 @@ tqdl ⋙
 
   from tqdl import download
   download(file_url, target_file_path)
+   19%|█▊        | 20.5M/110M [00:06<00:29, 2.98MiB/s]
 
 .. contents::
 
