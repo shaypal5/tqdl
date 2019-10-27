@@ -27,10 +27,22 @@ Installation
 Features
 ========
 
-* Simple and straight-forward API.
+* Simple and straightforward API.
 * Installable from PyPI with ``pip install tqdl``.
 * `Tested on TravisCI <https://travis-ci.org/shaypal5/tqdl>`_ against Linux, Windows and macOS, and Python versions 3.5 through 3.7.
 * The name - تقدّل - can be traslated as "get ahead", which is awesome. 
+
+
+Use
+===
+
+``tqdl`` contains a single funcion, aptly named download, which you can use to download files with a nice progress bar by providing it with a URL and a file path. Obviously, this is only useful for downloads of large files, and where you cae about showing the user (of your code/script/whatever) the progress of the ongoing download. Here is a very straightforward example:
+
+.. code-block:: python
+
+  from tqdl import download
+  download(file_url, target_file_path)
+   19%|█▊        | 20.5M/110M [00:06<00:29, 2.98MiB/s]
 
 
 Contributing
