@@ -36,7 +36,9 @@ Features
 Use
 ===
 
-``tqdl`` contains a single funcion, aptly named download, which you can use to download files with a nice progress bar by providing it with a URL and a file path. Obviously, this is only useful for downloads of large files, and where you cae about showing the user (of your code/script/whatever) the progress of the ongoing download. Here is a very straightforward example:
+``tqdl`` contains a single funcion, aptly named download, which you can use to download files with a nice progress bar by providing it with a URL and a file path. Obviously, this is only useful for downloads of large files, and where you cae about showing the user (of your code/script/whatever) the progress of the ongoing download.
+
+Here is a very straightforward example:
 
 .. code-block:: python
 
