@@ -24,6 +24,15 @@ Installation
   pip install tqdl
 
 
+Features
+========
+
+* Simple and straight-forward API.
+* Installable from PyPI with ``pip install tqdl``.
+* `Tested on TravisCI <https://travis-ci.org/shaypal5/tqdl>`_ against Linux, Windows and macOS, and Python versions 3.5 through 3.7.
+* The name - تقدّل - can be traslated as "get ahead", which is awesome. 
+
+
 Contributing
 ============
 
