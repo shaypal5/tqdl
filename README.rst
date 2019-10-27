@@ -97,7 +97,7 @@ Credits
 
 Created by `Shay Palachy <http://www.shaypalachy.com/>`_ (shay.palachy@gmail.com).
 
-Based on a `stackoverflow answer by user leovp <https://stackoverflow.com>`_.
+Based on a `stackoverflow answer by user leovp <https://stackoverflow.com/a/37573701/781531>`_.
 
 
 .. |PyPI-Status| image:: https://img.shields.io/pypi/v/tqdl.svg
