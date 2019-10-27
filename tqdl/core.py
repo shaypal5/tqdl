@@ -25,5 +25,5 @@ def download(url, fpath):
             t.update(len(data))
             f.write(data)
     t.close()
-    if total_size != 0 and t.n != total_size:
+    if total_size != 0 and t.n != total_size:  # pragma: no cover
         print("Error! Something went wrong during download.")
